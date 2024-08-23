@@ -16,7 +16,7 @@ For my inaugural project utilizing Microsoft SQL Server Management Studio to eng
 5.	In which continent have people received the most vaccinations?
 6.	At what income level have people received the highest number of vaccinations?
    
-# Data sourcing
+# Data Sourcing
 The dataset used in this project was obtained from an online source (Coronavirus (COVID-19) Deaths - Our World in Data). After downloading the dataset in CSV format, I proceeded to import it into Microsoft SQL Server Management Studio. The initial dataset consisted of 327,861 rows and 67 columns in its unprocessed state. This initial phase of data acquisition and preparation serves as the crucial groundwork upon which the subsequent phases of data querying, analysis, and visualization within the project are built.
 
 # Data Preparation, Transformation and Cleaning
