@@ -1,11 +1,13 @@
+/*
+The dataset consists of two tables. 
+*/
 
----View the data in the data base
 ---COVIDDEATHS Table
 SELECT *
 FROM AKOPortfolioProject.dbo.CovidDeaths
 ORDER BY 3,4
 
----View the data in the data base
+
 --- COVIDVACCINATIONS Table
 SELECT *
 FROM AKOPortfolioProject.dbo.CovidVaccinations
